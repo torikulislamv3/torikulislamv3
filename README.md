@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.js , MongoDB , Tailwind-CSS**
 
-- 📫 How to reach me **mdtorikulislam99@yahoo.com**
+- 📫 How to reach me **mdtorikulislam.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
