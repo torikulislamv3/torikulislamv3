@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://i.postimg.cc/TPkFJcd6/Blue-Modern-Marketing-Manager-Linked-In-Banner-1.png">
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/D5616AQH27et2wDyUww/profile-displaybackgroundimage-shrink_350_1400/0/1720256288633?e=1729123200&v=beta&t=6dMgyu3Mn3pWTwtJ-26Tn4CMK2wENHYvoNjaVuoa_6k">
 <h1 align="center">Hi 👋, I'm MD TORIKUL ISLAM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
