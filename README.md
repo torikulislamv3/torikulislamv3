@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React.js , MongoDB , Tailwind-CSS**
+- 💬 Ask me about **React.js , MongoDB , Tailwind-CSS , Node.js , Express.js**
 
 - 📫 How to reach me **mdtorikulislam.dev@gmail.com**
 
