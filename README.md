@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://www.linkedin.com/in/md-torikulislam/overlay/background-image/">
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D5616AQEdo3XSQmtMgg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724519258507?e=1730332800&v=beta&t=WKQEZNHxHrG0q4-iiqN3pw3D36wXuPmK_Y14rammkcM">
 <h1 align="center">Hi 👋, I'm MD TORIKUL ISLAM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
