@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.js , MongoDB , Tailwind-CSS , Node.js , Express.js , Typescript , JavaScript , Material UI**
 
-- 📫 How to reach me **mdtorikulislam.dev@gmail.com**
+- 📫 How to reach me **mdtorikulislam1808@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
