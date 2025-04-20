@@ -1,67 +1,99 @@
-<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQGUmeXcRIbjkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730301559740?e=1746662400&v=beta&t=dRUagfgNfy-IN1CUdDW9zhOiI0rDw5Ei9o_RVBRu0GA">
-<h1 align="center">Hi 👋, I'm MD TORIKUL ISLAM</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQGUmeXcRIbjkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730301559740?e=1746662400&v=beta&t=dRUagfgNfy-IN1CUdDW9zhOiI0rDw5Ei9o_RVBRu0GA" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=torikulislamv3&label=Profile%20views&color=0e75b6&style=flat" alt="torikulislamv3" /> </p>
+<h1 align="center">Hey there! 👋 I'm MD TORIKUL ISLAM</h1>
+<h3 align="center">🚀 Frontend Developer | Problem Solver | Tech Explorer from Bangladesh 🇧🇩</h3>
 
-- 🔭 I’m currently working on [Revboost_Solution](https://revboost.business-easy.com/)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React.js , MongoDB , Tailwind-CSS , Node.js , Express.js , Typescript , JavaScript , Material UI**
-
-- 📫 How to reach me **mdtorikulislam1808@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mdtorikulislamtamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtorikulislamtamim" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-torikulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtorikulislam" height="30" width="40" /></a>
-<a href="https://twitter.com/TorikulIsl2041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter_handle" height="30" width="40" /></a>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2DECE6&center=true&width=435&lines=Crafting+Modern+UIs+with+React.js;Loving+JavaScript+and+Clean+Code;Passionate+about+Learning+and+Building" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Freelance Platforms:</h3>
-<p align="left">
-<a href="https://www.fiverr.com/md_torikul2004" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7j72atakY6MHFWxzbnz23bQn9rwrzRfNNg&s" alt="fiverr" height="30" width="40" /></a>
-<a href="https://www.freelancer.com/u/mdtorikul2004" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="freelancer" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-<h3 align="left">Tech / Skills:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXhjVqtRd6tiqcsSQ7rD6VF7NxI-3VvoR0w&s" alt="js" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://firebase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40"/> </a>
-</p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=torikulislamv3&show_icons=true&locale=en&layout=compact" alt="torikulislamv3" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torikulislamv3&show_icons=true&locale=en" alt="torikulislamv3" /></p>
+Hi, I’m **MD TORIKUL ISLAM** (aka Tamim), a passionate and dedicated frontend developer who turns ideas into interactive, responsive, and visually appealing web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=torikulislamv3&" alt="torikulislamv3" /></p>
+- 🌱 Currently learning: **Next.js**
+- 🔭 Currently working on: [Revboost_Solution](https://revboost.business-easy.com/)
+- 💬 Ask me about:  
+  `React.js`, `MongoDB`, `Node.js`, `Express.js`, `Tailwind CSS`, `JavaScript`, `Material UI`, `Firebase`, `TypeScript`
+- 📫 Reach me at: **mdtorikulislam1808@gmail.com**
+- 😄 Fun fact: I *really* think I’m funny 😎
 
-<h3 align="left">About me:</h3>
+---
+
+### 🌐 Connect with Me:
+
 <p>
-   Hi, I’m MD TORIKUL ISLAM, a passionate front-end developer with a keen interest in coding. I love creating responsive and interactive web applications that provide a seamless user experience.
-
-🚀 My skills include:
-
-**React.js:** Building dynamic and efficient user interfaces. </br></br>
-**Node.js & Express.js:** Developing robust back-end solutions.</br></br>
-**MongoDB:** Managing and interacting with databases.</br></br>
-**HTML & CSS:** Crafting well-structured and visually appealing web pages.</br></br>
-**Tailwind CSS:** Implementing utility-first CSS for rapid and consistent styling.</br></br>
-**JavaScript:** Bringing interactivity and functionality to web applications.</br></br>
-🌱 I am always eager to learn and explore new technologies to stay updated with the latest trends in web development.
-
-💻 Let's connect and create something amazing together!
+  <a href="https://www.linkedin.com/in/md-torikulislam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/mdtorikulislamtamim" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/TorikulIsl2041" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
-<p align="center">Thank You ❤️</p>
+
+---
+
+### 💼 Freelance Platforms
+
+<p>
+  <a href="https://www.fiverr.com/md_torikul2004" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://www.freelancer.com/u/mdtorikul2004" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torikulislamv3&show_icons=true&theme=radical" alt="Torikul's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torikulislamv3&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=torikulislamv3&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate!
+
+I'm always open to exciting frontend projects, internship opportunities, or freelance gigs.  
+Whether it's building a web app, fixing UI bugs, or transforming a Figma file into a real website — I'm in!
+
+<p align="center">📩 Shoot me an email at <b>mdtorikulislam1808@gmail.com</b></p>
+
+---
+
+<p align="center">Thanks for visiting! 🙏</p>
+<p align="center">Made with ❤️ by Tamim</p>
