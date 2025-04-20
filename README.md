@@ -96,4 +96,4 @@ Whether it's building a web app, fixing UI bugs, or transforming a Figma file in
 ---
 
 <p align="center">Thanks for visiting! 🙏</p>
-<p align="center">Made with ❤️ by Tamim</p>
+<p align="center">Made with ❤️ by TORIKUL</p>
