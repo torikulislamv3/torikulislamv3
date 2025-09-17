@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQGUmeXcRIbjkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730301559740?e=1752710400&v=beta&t=qvS5V157p6lpKCwRvYg0UDpmb_JoH8e0uzMQWJDYWtA" />
+<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQGUmeXcRIbjkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730301559740?e=1761177600&v=beta&t=xS-zxct_dUpyxz8PfDUNiqQQ5ENkkf2fItieTlySOD8" />
 
 <h1 align="center">Hey there! 👋 I'm MD TORIKUL ISLAM</h1>
 <h3 align="center">🚀 Frontend Developer | Problem Solver | Tech Explorer from Bangladesh 🇧🇩</h3>
